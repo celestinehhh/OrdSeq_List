@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1584773931 source:c:\users\gyc\desktop\seq_list\main.cpp
+	<iostream>
+	"SeqList.h"
+
+1585106293 c:\users\gyc\desktop\seq_list\seqlist.h
+	"Assistance.h"
+
+1585105639 c:\users\gyc\desktop\seq_list\assistance.h
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1585104891 source:c:\users\gyc\desktop\seq_list\testseqlist.cpp
+	"SeqList.h"
+
+1585144805 source:c:\users\gyc\desktop\ordseq_list\testseqlist.cpp
+	"SeqList.h"
+
+1585144995 c:\users\gyc\desktop\ordseq_list\seqlist.h
+	"Assistance.h"
+
+1585105639 c:\users\gyc\desktop\ordseq_list\assistance.h
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1585146744 source:c:\users\gyc\desktop\数据结构\ordseq_list\ordtestseqlist.cpp
+	"OrdSeqList.h"
+
+1585147563 c:\users\gyc\desktop\数据结构\ordseq_list\ordseqlist.h
+	"Assistance.h"
+
+1585105639 c:\users\gyc\desktop\数据结构\ordseq_list\assistance.h
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1585146744 source:c:\users\gyc\desktop\ordseq_list\testordseqlist.cpp
+	"OrdSeqList.h"
+
+1585147563 c:\users\gyc\desktop\ordseq_list\ordseqlist.h
+	"Assistance.h"
+
+1585105639 c:\users\gyc\desktop\ordseq_list\assistance.h
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
